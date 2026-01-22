@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bajrang Kumar</h1>
-<h3 align="center">Data Structures | DBMS | SQL | Python | Machine Learning | Git & Github | JAVA | Flask | BS Degree in Data Science and Applications at IIT Madras | Computer Science at BCET | 5⭐ @ HackerRank</h3>
+<h3 align="center">M.Tech @ NIT Jalandhar | SQL | C/C++ | Python | R | Machine Learning | DBMS | 5⭐ Coder @HackerRank Python | B.Tech Computer Science 2025</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bajrang18&label=Profile%20views&color=0e75b6&style=flat" alt="bajrang18" /> </p>
 
