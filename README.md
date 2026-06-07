@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bajrang Kumar</h1>
-<h3 align="center">M.Tech @ NIT Jalandhar | SQL | C/C++ | Python | R | Machine Learning | DBMS | 5⭐ Coder @HackerRank Python | B.Tech Computer Science 2025</h3>
+<h3 align="center">M.Tech @ NIT Jalandhar(2025-27) | SQL | C/C++ | Python | R | Machine Learning | DBMS | 5⭐ Coder @HackerRank Python | B.Tech CSE 2025</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bajrang18&label=Profile%20views&color=0e75b6&style=flat" alt="bajrang18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bajrang18" alt="bajrang18" /></a> </p>
 
-- 🔭 I’m currently working on **Medicine Recommendation System Web App**
+- 🔭 I’m currently working on **Embedded Software and Firmware**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Embedded Software and Firmware**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/bajrang18/](https://www.linkedin.com/in/bajrang18/)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bajrangsingh1804@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGceTcmOnA/cD4V5VZS1KOoXo0-Mj2pBA/view?utm_content=DAGceTcmOnA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3df64350d7]
+- 📄 Know about my experiences [[https://www.canva.com/design/DAGceTcmOnA/cD4V5VZS1KOoXo0-Mj2pBA/view?utm_content=DAGceTcmOnA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3df64350d7](https://canva.link/vjnamt3l5ljynma)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
